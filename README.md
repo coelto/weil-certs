@@ -19,10 +19,10 @@ The repository contains the PDF of the paper, the notes on the changes in this v
 | File | Size, bytes | SHA-256 | MD5 |
 |---|---|---|---|
 | `chekmachev-truncated-weil-form-lower-bounds-v2.pdf` | 886412 | `0141813695092216f83175ae4d3ef898354e03181a3c26b801cb58412340f89d` | `1e9009624531700485dbc80e2aa63e09` |
-| `chekmachev-truncated-weil-form-lower-bounds-v2.pdf.ots` | 875 | `2a861c41601bad26eaf37a09bbfbc159e119924ab9068bf2e814f89fdf889329` | `45ad066c54ba92cb5c3e6200d3c0a257` |
+| `chekmachev-truncated-weil-form-lower-bounds-v2.pdf.ots` | 5092 | `1beeabd063e4336cc1099b834f357b891fbcd9393d3b19eddd75115acf592f85` | `cab94f4d394535b963964c38da98015a` |
 | `version-notes-v2.txt` | 894 | `e2fa050874373e7e0834da2aaeca946365000555f51c10adf02b5f61e3d73d77` | `7f693a372a2697c9e2716ada1610951c` |
 
-OpenTimestamps time (UTC): <!-- filled in after the timestamp is upgraded -->
+OpenTimestamps time (UTC): 2026-11-20 10:47:00.
 
 ## Version history
 
