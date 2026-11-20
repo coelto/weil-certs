@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Rigorous lower bounds for the truncated Weil form up to support length ln 71 via a lattice minorant"
+authors:
+  - family-names: "Chekmachev"
+    given-names: "Vadim"
+    orcid: "https://orcid.org/0009-0009-2982-0532"
+version: "2.0"
+date-released: "2026-11-19"
+doi: "10.5281/zenodo.23848596"
+license-url: "https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html"
+url: "https://doi.org/10.5281/zenodo.23848596"
+message: "When using this paper, cite it by its DOI."
+repository-code: "https://github.com/coelto/weil-certs"
